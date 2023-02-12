@@ -5,6 +5,10 @@ namespace Borysov_.Net
 {
     class TestTask
     {
+        /// <summary>
+        /// Task 1
+        /// Составить алгоритм: если введенное число больше 7, то вывести “Привет”
+        /// </summary>
         public static void DisplayMessage()
         {
             Console.Write("Введите любое целое число:  ");
@@ -12,6 +16,11 @@ namespace Borysov_.Net
             if (inputNumber > 7)
                 Console.WriteLine("Привет");
         }
+        
+        /// <summary>
+        /// Task 2
+        /// Составить алгоритм: если введенное имя совпадает с Вячеслав, то вывести “Привет, Вячеслав”, если нет, то вывести "Нет такого имени"
+        /// </summary>
         public static void NameVerification()
         {
             Console.Write("Введите имя: ");
@@ -20,6 +29,11 @@ namespace Borysov_.Net
                 Console.WriteLine("Привет, {0}", inputName);
             else Console.WriteLine("Такого имени нет");
         }
+        
+        /// <summary>
+        /// Task 3
+        /// Составить алгоритм: на входе есть числовой массив, необходимо вывести элементы массива кратные 3
+        /// </summary>
         public static void DisplayMultipleTo3Massive()
         {
             Console.Write("Введите размер массива: ");
