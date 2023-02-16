@@ -1,0 +1,8 @@
+D:\TA\Borysov_.Net\bin\Debug\Borysov_.Net.exe.config
+D:\TA\Borysov_.Net\bin\Debug\Borysov_.Net.exe
+D:\TA\Borysov_.Net\bin\Debug\Borysov_.Net.pdb
+D:\TA\Borysov_.Net\obj\Debug\Borysov_.Net.csproj.AssemblyReference.cache
+D:\TA\Borysov_.Net\obj\Debug\Borysov_.Net.csproj.SuggestedBindingRedirects.cache
+D:\TA\Borysov_.Net\obj\Debug\Borysov_.Net.csproj.CoreCompileInputs.cache
+D:\TA\Borysov_.Net\obj\Debug\Borysov_.Net.exe
+D:\TA\Borysov_.Net\obj\Debug\Borysov_.Net.pdb
